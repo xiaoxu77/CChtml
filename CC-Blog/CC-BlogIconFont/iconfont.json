@@ -1,0 +1,16 @@
+{
+  "id": "2305769",
+  "name": "CC-Blogiconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4457355",
+      "name": "seach",
+      "font_class": "seach",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}
